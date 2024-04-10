@@ -1,7 +1,7 @@
 /**
- * Functions. 
- * API CoinDesk, to get Bitcoin price
- */
+ * Bitcoin Price	
+ * Autor: Antonio Russoniello
+*/
 
 JSONObject json;
 JSONObject bpiJson;
